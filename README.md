@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  Hello, My name is Jihwan Park! <br> I'm hoping to be a Software Engineer.
+  Hello, My name is Jihwan Park! <br> I wanna be a Software Engineer.
 </p>
 
 <p align="center">
